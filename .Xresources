@@ -58,9 +58,9 @@ URxvt.scrollBar:    false
 
 ! set urxvt font
 #define fontSize 10
-URxvt.font:         xft:anonymous pro:size=fontSize
-URxvt.boldFont:     xft:anonymous pro b:size=fontSize
-URxvt.italicFont:   xft:anonymous pro i:size=fontSize
-URxvt.boldItalicFont:   xft:anonymous pro bi:size=fontSize
+URxvt.font:         -sgi-screen-medium-*-*-*-14-*-*-*-*-*-*-1
+URxvt.boldFont:     -sgi-screen-bold-*-*-*-14-*-*-*-*-*-*-1
+URxvt.italicFont:   -sgi-screen-medium-*-*-*-14-*-*-*-*-*-*-1
+URxvt.boldItalicFont: -sgi-screen-bold-*-*-*-14-*-*-*-*-*-*-1  
 
-URxvt.internalBorder:   8
+URxvt.internalBorder:  4 
